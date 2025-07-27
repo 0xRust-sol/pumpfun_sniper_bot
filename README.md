@@ -1,4 +1,5 @@
 # 🐯 Pump.fun Sniper Bot with Helius Enhanced WebSocket
+This is bot.
 
 A high-performance Solana token sniper bot that listens to real-time transactions using Helius's Enhanced WebSocket API and snipes tokens instantly when new pairs are detected on [pump.fun](https://pump.fun).
 
